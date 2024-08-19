@@ -1,4 +1,5 @@
 # Help Center API Assignment
+This repository includes an assignment focusing on:
 - [Shared Functionality Across a Component Tree](./shared-functionality.md)
 - [Why `useState` Hook is Appropriate](./useState-hook.md)
 
@@ -35,10 +36,7 @@
       npm start
       ```
 
-      The frontend should now be available at `http://localhost:3000` and the backend at `http://localhost:5000`.
-
-**Video Demo**
-Check out this video demo of the project to see it in action:
+## [video demo](https://drive.google.com/file/d/1CKbJ3xOT09VhZr_ef9iTPO1sGWJQODjP/view?usp=sharing)
 
 
 
